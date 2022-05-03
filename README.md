@@ -1,4 +1,4 @@
-# Pong-Game Built with Javascript, Css, Html
+# Pong-Game Built with Javascript, CSS, HTML
 
 **Screen Shot of this game**
 
