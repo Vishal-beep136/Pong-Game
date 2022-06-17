@@ -1,6 +1,6 @@
 # Pong-Game Built with Javascript, CSS, HTML
 
-**Screen Shot Of This Game**
+**Screen Shot Of This Simple Game**
 
 ![alt text](https://github.com/Vishal-beep136/Pong-Game/blob/master/Screenshot%202022-03-20%20095223.png)
 
